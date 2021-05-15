@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="strona.xsl"?>
+<firma>
+	<nazwa-firmy>Standardowa firma do grafiki komputerowej</nazwa-firmy>
+	<logo>wlasnelogo.svg</logo>
+	<wlascicel-firmy>
+		<imie>Olga</imie>
+		<nawisko>Durkacz</nawisko>
+	</wlascicel-firmy>
+	<tel>123 606 303</tel>
+	<adres-e-mail>kotki_sa_fajne@gmail.com</adres-e-mail>
+	<adres>
+		<ulica>Koperkowa</ulica>
+		<nr-domu>2</nr-domu>
+		<kod-pczt>66-400</kod-pczt>
+		<miasto>Gorzów Wlkp</miasto>
+	</adres>
+	<lista-uslug>
+		<usluga>Tworzenie wizytówek na zamówienie</usluga>
+		<usluga>Tworzenie logo</usluga>
+		<usluga>Tworzenie reklam</usluga>
+	</lista-uslug>
+</firma>

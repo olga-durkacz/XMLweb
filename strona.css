@@ -1,0 +1,82 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
+
+
+body{
+	background: linear-gradient(#f4beff 0%,#a9bdff  100%);
+	min-height: 100vh;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    align-content: space-around;
+    flex-wrap: nowrap;
+    align-items: center;
+    color: white;
+    font-family:  'Montserrat', sans-serif;
+
+}
+
+header{
+	background-color: #1a064088;
+	text-align: center;
+	width: 95%;
+	border-radius: 1rem 1rem 0 0 ;
+	
+}
+
+section{
+	background-color: #1a064088;
+	  display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    align-content: space-around;
+    flex-wrap: nowrap;
+    align-items: center;
+    border-radius: 0 0 1rem 1rem;
+    padding-bottom: 10px;
+	width: 95%;
+	height: 50%;
+
+}
+img{
+	width: 20rem;
+	height: 20rem;
+
+}
+#col1
+{
+	width: 100%;
+	height: 100%;
+	display: flex;
+    justify-content: space-around;
+    align-items: stretch;
+    align-content: center;
+    flex-wrap: nowrap;
+    margin: 10px;
+
+}
+
+.hist{
+	width: 90%;
+	height: 100%;
+	background-color: #1a064044;
+	padding: 20px;
+	border-radius: 1rem;
+
+}
+.uslg{
+	background-color: #1a064044;
+	padding: 10px;
+	border-radius: 1rem;
+}
+
+
+.kont{
+	background-color: #1a064044;
+	padding: 10px;
+	border-radius: 1rem;
+}
+
+footer{
+
+}
